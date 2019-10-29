@@ -1,0 +1,4274 @@
+{
+  "misc": {
+    "compileTime": 58787
+  },
+  "plugins": {
+    "WebpackBarPlugin": 2387,
+    "IgnorePlugin": 4575,
+    "MiniCssExtractPlugin": 1546,
+    "DefinePlugin": 47,
+    "HashedModuleIdsPlugin": 107,
+    "UglifyJsPlugin": 20010,
+    "ExtraWatchWebpackPlugin": 95,
+    "FilterCSSConflictingWarning": 1,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 296
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 381,
+          "median": 633,
+          "mean": 874,
+          "range": {
+            "start": 65,
+            "end": 2255
+          },
+          "variance": 143476
+        },
+        "activeTime": 28060,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 2132,
+          "median": 316,
+          "mean": 292,
+          "range": {
+            "start": 0,
+            "end": 4841
+          },
+          "variance": 81341
+        },
+        "activeTime": 35741,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 351,
+          "mean": 526,
+          "range": {
+            "start": 51,
+            "end": 2411
+          },
+          "variance": 233915
+        },
+        "activeTime": 13766,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 360,
+          "mean": 509,
+          "range": {
+            "start": 44,
+            "end": 2377
+          },
+          "variance": 212672
+        },
+        "activeTime": 13571,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 508,
+          "mean": 704,
+          "range": {
+            "start": 378,
+            "end": 1229
+          },
+          "variance": 81357
+        },
+        "activeTime": 7122,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 330,
+          "mean": 423,
+          "range": {
+            "start": 327,
+            "end": 975
+          },
+          "variance": 59288
+        },
+        "activeTime": 1321,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 564,
+          "mean": 1339,
+          "range": {
+            "start": 564,
+            "end": 2774
+          },
+          "variance": 1072874
+        },
+        "activeTime": 2779,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 67,
+          "median": 523,
+          "mean": 511,
+          "range": {
+            "start": 68,
+            "end": 1869
+          },
+          "variance": 66779
+        },
+        "activeTime": 10580,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 67,
+          "median": 503,
+          "mean": 494,
+          "range": {
+            "start": 46,
+            "end": 1851
+          },
+          "variance": 67182
+        },
+        "activeTime": 10381,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 27084
+  },
+  "plugins": {
+    "WebpackBarPlugin": 893,
+    "IgnorePlugin": 1195,
+    "MiniCssExtractPlugin": 511,
+    "DefinePlugin": 6,
+    "HashedModuleIdsPlugin": 26,
+    "UglifyJsPlugin": 10263,
+    "ExtraWatchWebpackPlugin": 15,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 13,
+    "BigBrotherWebpackPlugin": 162
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 369,
+          "median": 254,
+          "mean": 333,
+          "range": {
+            "start": 27,
+            "end": 1337
+          },
+          "variance": 53104
+        },
+        "activeTime": 14925,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1475,
+          "median": 51,
+          "mean": 143,
+          "range": {
+            "start": 0,
+            "end": 3700
+          },
+          "variance": 40997
+        },
+        "activeTime": 15623,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 55,
+          "median": 314,
+          "mean": 355,
+          "range": {
+            "start": 59,
+            "end": 1487
+          },
+          "variance": 118536
+        },
+        "activeTime": 8632,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 55,
+          "median": 376,
+          "mean": 341,
+          "range": {
+            "start": 52,
+            "end": 1465
+          },
+          "variance": 108628
+        },
+        "activeTime": 8223,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 387,
+          "mean": 517,
+          "range": {
+            "start": 343,
+            "end": 1029
+          },
+          "variance": 58816
+        },
+        "activeTime": 3309,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 83,
+          "mean": 144,
+          "range": {
+            "start": 81,
+            "end": 492
+          },
+          "variance": 23562
+        },
+        "activeTime": 584,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 1416,
+          "mean": 813,
+          "range": {
+            "start": 108,
+            "end": 1608
+          },
+          "variance": 658098
+        },
+        "activeTime": 1729,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 27232
+  },
+  "plugins": {
+    "WebpackBarPlugin": 1039,
+    "IgnorePlugin": 1232,
+    "MiniCssExtractPlugin": 620,
+    "DefinePlugin": 9,
+    "HashedModuleIdsPlugin": 38,
+    "UglifyJsPlugin": 10456,
+    "ExtraWatchWebpackPlugin": 26,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 150
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 371,
+          "median": 302,
+          "mean": 300,
+          "range": {
+            "start": 5,
+            "end": 893
+          },
+          "variance": 24583
+        },
+        "activeTime": 13825,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 35,
+          "mean": 119,
+          "range": {
+            "start": 0,
+            "end": 3067
+          },
+          "variance": 16909
+        },
+        "activeTime": 14868,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 267,
+          "mean": 385,
+          "range": {
+            "start": 71,
+            "end": 2027
+          },
+          "variance": 153146
+        },
+        "activeTime": 9039,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 368,
+          "mean": 368,
+          "range": {
+            "start": 62,
+            "end": 1993
+          },
+          "variance": 141115
+        },
+        "activeTime": 8876,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 296,
+          "mean": 391,
+          "range": {
+            "start": 251,
+            "end": 791
+          },
+          "variance": 34083
+        },
+        "activeTime": 3994,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 17,
+          "mean": 118,
+          "range": {
+            "start": 13,
+            "end": 728
+          },
+          "variance": 72326
+        },
+        "activeTime": 752,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 1609,
+          "mean": 1631,
+          "range": {
+            "start": 1607,
+            "end": 1700
+          },
+          "variance": 2132
+        },
+        "activeTime": 1706,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 28953
+  },
+  "plugins": {
+    "WebpackBarPlugin": 1041,
+    "IgnorePlugin": 1356,
+    "MiniCssExtractPlugin": 696,
+    "DefinePlugin": 7,
+    "HashedModuleIdsPlugin": 39,
+    "UglifyJsPlugin": 10827,
+    "ExtraWatchWebpackPlugin": 21,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 158
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 371,
+          "median": 271,
+          "mean": 305,
+          "range": {
+            "start": 33,
+            "end": 1257
+          },
+          "variance": 19724
+        },
+        "activeTime": 12965,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 42,
+          "mean": 134,
+          "range": {
+            "start": 0,
+            "end": 3617
+          },
+          "variance": 28352
+        },
+        "activeTime": 16376,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 2603,
+          "mean": 432,
+          "range": {
+            "start": 43,
+            "end": 2603
+          },
+          "variance": 253802
+        },
+        "activeTime": 9884,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 303,
+          "mean": 413,
+          "range": {
+            "start": 36,
+            "end": 2559
+          },
+          "variance": 227711
+        },
+        "activeTime": 9675,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 297,
+          "mean": 397,
+          "range": {
+            "start": 119,
+            "end": 1101
+          },
+          "variance": 61176
+        },
+        "activeTime": 4169,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 149,
+          "mean": 221,
+          "range": {
+            "start": 147,
+            "end": 647
+          },
+          "variance": 35374
+        },
+        "activeTime": 809,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 2207,
+          "mean": 2259,
+          "range": {
+            "start": 2203,
+            "end": 2422
+          },
+          "variance": 11811
+        },
+        "activeTime": 2429,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 28635
+  },
+  "plugins": {
+    "WebpackBarPlugin": 1002,
+    "IgnorePlugin": 1461,
+    "MiniCssExtractPlugin": 652,
+    "DefinePlugin": 2,
+    "HashedModuleIdsPlugin": 29,
+    "UglifyJsPlugin": 10599,
+    "ExtraWatchWebpackPlugin": 20,
+    "FilterCSSConflictingWarning": 1,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 170
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 371,
+          "median": 353,
+          "mean": 321,
+          "range": {
+            "start": 32,
+            "end": 1148
+          },
+          "variance": 21945
+        },
+        "activeTime": 13049,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 38,
+          "mean": 126,
+          "range": {
+            "start": 0,
+            "end": 3282
+          },
+          "variance": 23567
+        },
+        "activeTime": 16061,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 336,
+          "mean": 396,
+          "range": {
+            "start": 29,
+            "end": 2156
+          },
+          "variance": 195456
+        },
+        "activeTime": 9311,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 356,
+          "mean": 378,
+          "range": {
+            "start": 17,
+            "end": 2120
+          },
+          "variance": 175619
+        },
+        "activeTime": 9122,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 318,
+          "mean": 371,
+          "range": {
+            "start": 107,
+            "end": 791
+          },
+          "variance": 34462
+        },
+        "activeTime": 3626,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 147,
+          "mean": 208,
+          "range": {
+            "start": 111,
+            "end": 670
+          },
+          "variance": 41869
+        },
+        "activeTime": 885,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 1894,
+          "mean": 1959,
+          "range": {
+            "start": 1891,
+            "end": 2156
+          },
+          "variance": 17294
+        },
+        "activeTime": 2156,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 30052
+  },
+  "plugins": {
+    "WebpackBarPlugin": 986,
+    "IgnorePlugin": 1491,
+    "MiniCssExtractPlugin": 650,
+    "DefinePlugin": 6,
+    "HashedModuleIdsPlugin": 41,
+    "UglifyJsPlugin": 11182,
+    "ExtraWatchWebpackPlugin": 21,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 171
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 371,
+          "median": 266,
+          "mean": 318,
+          "range": {
+            "start": 19,
+            "end": 1124
+          },
+          "variance": 31395
+        },
+        "activeTime": 14338,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 45,
+          "mean": 137,
+          "range": {
+            "start": 0,
+            "end": 3000
+          },
+          "variance": 28210
+        },
+        "activeTime": 16940,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 356,
+          "mean": 492,
+          "range": {
+            "start": 51,
+            "end": 2393
+          },
+          "variance": 224816
+        },
+        "activeTime": 9719,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 386,
+          "mean": 470,
+          "range": {
+            "start": 40,
+            "end": 2349
+          },
+          "variance": 199579
+        },
+        "activeTime": 9538,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 299,
+          "mean": 421,
+          "range": {
+            "start": 205,
+            "end": 929
+          },
+          "variance": 59508
+        },
+        "activeTime": 3952,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 184,
+          "mean": 276,
+          "range": {
+            "start": 179,
+            "end": 827
+          },
+          "variance": 59107
+        },
+        "activeTime": 1018,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 1569,
+          "mean": 1631,
+          "range": {
+            "start": 1566,
+            "end": 1821
+          },
+          "variance": 16004
+        },
+        "activeTime": 1826,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 30908
+  },
+  "plugins": {
+    "WebpackBarPlugin": 1058,
+    "IgnorePlugin": 1408,
+    "MiniCssExtractPlugin": 637,
+    "DefinePlugin": 6,
+    "HashedModuleIdsPlugin": 48,
+    "UglifyJsPlugin": 11479,
+    "ExtraWatchWebpackPlugin": 28,
+    "FilterCSSConflictingWarning": 1,
+    "FriendlyErrorsWebpackPlugin": 5,
+    "BigBrotherWebpackPlugin": 182
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 371,
+          "median": 299,
+          "mean": 331,
+          "range": {
+            "start": 29,
+            "end": 1434
+          },
+          "variance": 26769
+        },
+        "activeTime": 15098,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 33,
+          "mean": 142,
+          "range": {
+            "start": 0,
+            "end": 4373
+          },
+          "variance": 34990
+        },
+        "activeTime": 17526,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 2426,
+          "mean": 519,
+          "range": {
+            "start": 50,
+            "end": 2453
+          },
+          "variance": 286197
+        },
+        "activeTime": 11449,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 2410,
+          "mean": 498,
+          "range": {
+            "start": 42,
+            "end": 2410
+          },
+          "variance": 264678
+        },
+        "activeTime": 11217,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 413,
+          "mean": 472,
+          "range": {
+            "start": 143,
+            "end": 980
+          },
+          "variance": 74739
+        },
+        "activeTime": 4900,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 175,
+          "mean": 211,
+          "range": {
+            "start": 128,
+            "end": 449
+          },
+          "variance": 11969
+        },
+        "activeTime": 772,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 2066,
+          "mean": 2114,
+          "range": {
+            "start": 2062,
+            "end": 2264
+          },
+          "variance": 9970
+        },
+        "activeTime": 2264,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 28687
+  },
+  "plugins": {
+    "WebpackBarPlugin": 1036,
+    "IgnorePlugin": 1348,
+    "MiniCssExtractPlugin": 603,
+    "DefinePlugin": 7,
+    "HashedModuleIdsPlugin": 34,
+    "UglifyJsPlugin": 10634,
+    "ExtraWatchWebpackPlugin": 20,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 7,
+    "BigBrotherWebpackPlugin": 165
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 371,
+          "median": 288,
+          "mean": 300,
+          "range": {
+            "start": 29,
+            "end": 1103
+          },
+          "variance": 29798
+        },
+        "activeTime": 13904,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 3,
+          "mean": 137,
+          "range": {
+            "start": 0,
+            "end": 3402
+          },
+          "variance": 25640
+        },
+        "activeTime": 16424,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 323,
+          "mean": 452,
+          "range": {
+            "start": 41,
+            "end": 2328
+          },
+          "variance": 225203
+        },
+        "activeTime": 10334,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 321,
+          "mean": 433,
+          "range": {
+            "start": 33,
+            "end": 2288
+          },
+          "variance": 203384
+        },
+        "activeTime": 10120,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 325,
+          "mean": 428,
+          "range": {
+            "start": 116,
+            "end": 875
+          },
+          "variance": 69645
+        },
+        "activeTime": 3805,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 33,
+          "mean": 80,
+          "range": {
+            "start": 19,
+            "end": 385
+          },
+          "variance": 18149
+        },
+        "activeTime": 425,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 1716,
+          "mean": 1775,
+          "range": {
+            "start": 1712,
+            "end": 1958
+          },
+          "variance": 14928
+        },
+        "activeTime": 1960,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 28398
+  },
+  "plugins": {
+    "WebpackBarPlugin": 1060,
+    "IgnorePlugin": 1511,
+    "MiniCssExtractPlugin": 637,
+    "DefinePlugin": 11,
+    "HashedModuleIdsPlugin": 40,
+    "UglifyJsPlugin": 10524,
+    "ExtraWatchWebpackPlugin": 19,
+    "FilterCSSConflictingWarning": 1,
+    "FriendlyErrorsWebpackPlugin": 5,
+    "BigBrotherWebpackPlugin": 166
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 371,
+          "median": 315,
+          "mean": 366,
+          "range": {
+            "start": 28,
+            "end": 1409
+          },
+          "variance": 50066
+        },
+        "activeTime": 14658,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 318,
+          "mean": 147,
+          "range": {
+            "start": 0,
+            "end": 3394
+          },
+          "variance": 28384
+        },
+        "activeTime": 16482,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 282,
+          "mean": 377,
+          "range": {
+            "start": 45,
+            "end": 1627
+          },
+          "variance": 122921
+        },
+        "activeTime": 9839,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 393,
+          "mean": 364,
+          "range": {
+            "start": 34,
+            "end": 1603
+          },
+          "variance": 119406
+        },
+        "activeTime": 9606,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 407,
+          "mean": 543,
+          "range": {
+            "start": 132,
+            "end": 1193
+          },
+          "variance": 95353
+        },
+        "activeTime": 3750,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 59,
+          "mean": 131,
+          "range": {
+            "start": 58,
+            "end": 563
+          },
+          "variance": 36241
+        },
+        "activeTime": 628,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 2163,
+          "mean": 1697,
+          "range": {
+            "start": 499,
+            "end": 2163
+          },
+          "variance": 639604
+        },
+        "activeTime": 2169,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 28869
+  },
+  "plugins": {
+    "WebpackBarPlugin": 975,
+    "IgnorePlugin": 1387,
+    "MiniCssExtractPlugin": 594,
+    "DefinePlugin": 6,
+    "HashedModuleIdsPlugin": 35,
+    "UglifyJsPlugin": 10859,
+    "ExtraWatchWebpackPlugin": 21,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 5,
+    "BigBrotherWebpackPlugin": 165
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 371,
+          "median": 299,
+          "mean": 332,
+          "range": {
+            "start": 28,
+            "end": 1121
+          },
+          "variance": 32249
+        },
+        "activeTime": 13504,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 328,
+          "mean": 136,
+          "range": {
+            "start": 0,
+            "end": 3332
+          },
+          "variance": 28983
+        },
+        "activeTime": 16089,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 277,
+          "mean": 410,
+          "range": {
+            "start": 45,
+            "end": 2195
+          },
+          "variance": 197140
+        },
+        "activeTime": 9840,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 292,
+          "mean": 392,
+          "range": {
+            "start": 35,
+            "end": 2151
+          },
+          "variance": 177403
+        },
+        "activeTime": 9659,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 467,
+          "mean": 435,
+          "range": {
+            "start": 103,
+            "end": 889
+          },
+          "variance": 45659
+        },
+        "activeTime": 4552,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 139,
+          "mean": 211,
+          "range": {
+            "start": 128,
+            "end": 665
+          },
+          "variance": 40029
+        },
+        "activeTime": 879,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 2856,
+          "mean": 2210,
+          "range": {
+            "start": 765,
+            "end": 2856
+          },
+          "variance": 941781
+        },
+        "activeTime": 2864,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 27476
+  },
+  "plugins": {
+    "WebpackBarPlugin": 986,
+    "IgnorePlugin": 1448,
+    "MiniCssExtractPlugin": 591,
+    "DefinePlugin": 9,
+    "HashedModuleIdsPlugin": 47,
+    "UglifyJsPlugin": 10579,
+    "ExtraWatchWebpackPlugin": 18,
+    "FilterCSSConflictingWarning": 1,
+    "FriendlyErrorsWebpackPlugin": 6,
+    "BigBrotherWebpackPlugin": 159
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 373,
+          "median": 283,
+          "mean": 265,
+          "range": {
+            "start": 6,
+            "end": 1113
+          },
+          "variance": 34216
+        },
+        "activeTime": 13833,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 33,
+          "mean": 124,
+          "range": {
+            "start": 0,
+            "end": 2928
+          },
+          "variance": 17207
+        },
+        "activeTime": 14945,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 305,
+          "mean": 381,
+          "range": {
+            "start": 52,
+            "end": 1932
+          },
+          "variance": 145109
+        },
+        "activeTime": 8181,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 313,
+          "mean": 363,
+          "range": {
+            "start": 40,
+            "end": 1900
+          },
+          "variance": 132458
+        },
+        "activeTime": 8011,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 302,
+          "mean": 421,
+          "range": {
+            "start": 147,
+            "end": 838
+          },
+          "variance": 44887
+        },
+        "activeTime": 4018,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 7,
+          "mean": 138,
+          "range": {
+            "start": 7,
+            "end": 912
+          },
+          "variance": 116620
+        },
+        "activeTime": 927,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 422,
+          "mean": 753,
+          "range": {
+            "start": 421,
+            "end": 1327
+          },
+          "variance": 185787
+        },
+        "activeTime": 1333,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 28307
+  },
+  "plugins": {
+    "WebpackBarPlugin": 948,
+    "IgnorePlugin": 1234,
+    "MiniCssExtractPlugin": 536,
+    "DefinePlugin": 7,
+    "HashedModuleIdsPlugin": 30,
+    "UglifyJsPlugin": 10719,
+    "ExtraWatchWebpackPlugin": 22,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 6,
+    "BigBrotherWebpackPlugin": 166
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 373,
+          "median": 282,
+          "mean": 325,
+          "range": {
+            "start": 33,
+            "end": 1007
+          },
+          "variance": 26996
+        },
+        "activeTime": 12728,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 41,
+          "mean": 120,
+          "range": {
+            "start": 0,
+            "end": 3397
+          },
+          "variance": 22640
+        },
+        "activeTime": 15608,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 331,
+          "mean": 411,
+          "range": {
+            "start": 52,
+            "end": 2480
+          },
+          "variance": 232172
+        },
+        "activeTime": 10275,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 341,
+          "mean": 391,
+          "range": {
+            "start": 43,
+            "end": 2410
+          },
+          "variance": 205745
+        },
+        "activeTime": 10094,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 252,
+          "mean": 355,
+          "range": {
+            "start": 130,
+            "end": 1029
+          },
+          "variance": 52429
+        },
+        "activeTime": 3792,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 114,
+          "mean": 198,
+          "range": {
+            "start": 108,
+            "end": 702
+          },
+          "variance": 49420
+        },
+        "activeTime": 852,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 2103,
+          "mean": 2166,
+          "range": {
+            "start": 2101,
+            "end": 2356
+          },
+          "variance": 16130
+        },
+        "activeTime": 2361,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 27877
+  },
+  "plugins": {
+    "WebpackBarPlugin": 929,
+    "IgnorePlugin": 1485,
+    "MiniCssExtractPlugin": 646,
+    "DefinePlugin": 8,
+    "HashedModuleIdsPlugin": 31,
+    "UglifyJsPlugin": 10723,
+    "ExtraWatchWebpackPlugin": 18,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 5,
+    "BigBrotherWebpackPlugin": 180
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 373,
+          "median": 301,
+          "mean": 306,
+          "range": {
+            "start": 30,
+            "end": 992
+          },
+          "variance": 18639
+        },
+        "activeTime": 13226,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 33,
+          "mean": 120,
+          "range": {
+            "start": 0,
+            "end": 3157
+          },
+          "variance": 15937
+        },
+        "activeTime": 15295,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 347,
+          "mean": 398,
+          "range": {
+            "start": 64,
+            "end": 2003
+          },
+          "variance": 146517
+        },
+        "activeTime": 8468,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 335,
+          "mean": 381,
+          "range": {
+            "start": 57,
+            "end": 1968
+          },
+          "variance": 134075
+        },
+        "activeTime": 8311,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 327,
+          "mean": 450,
+          "range": {
+            "start": 145,
+            "end": 778
+          },
+          "variance": 46909
+        },
+        "activeTime": 4247,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 125,
+          "mean": 222,
+          "range": {
+            "start": 112,
+            "end": 810
+          },
+          "variance": 67349
+        },
+        "activeTime": 963,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 1260,
+          "mean": 1127,
+          "range": {
+            "start": 917,
+            "end": 1260
+          },
+          "variance": 21534
+        },
+        "activeTime": 1265,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 27208
+  },
+  "plugins": {
+    "WebpackBarPlugin": 995,
+    "IgnorePlugin": 1346,
+    "MiniCssExtractPlugin": 624,
+    "DefinePlugin": 11,
+    "HashedModuleIdsPlugin": 43,
+    "UglifyJsPlugin": 10547,
+    "ExtraWatchWebpackPlugin": 17,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 6,
+    "BigBrotherWebpackPlugin": 160
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 373,
+          "median": 236,
+          "mean": 280,
+          "range": {
+            "start": 31,
+            "end": 879
+          },
+          "variance": 20277
+        },
+        "activeTime": 12001,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1476,
+          "median": 44,
+          "mean": 123,
+          "range": {
+            "start": 0,
+            "end": 2829
+          },
+          "variance": 21902
+        },
+        "activeTime": 15071,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 302,
+          "mean": 374,
+          "range": {
+            "start": 44,
+            "end": 2108
+          },
+          "variance": 171506
+        },
+        "activeTime": 9325,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 56,
+          "median": 311,
+          "mean": 356,
+          "range": {
+            "start": 37,
+            "end": 2061
+          },
+          "variance": 152266
+        },
+        "activeTime": 9145,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 13,
+          "median": 290,
+          "mean": 345,
+          "range": {
+            "start": 114,
+            "end": 779
+          },
+          "variance": 37136
+        },
+        "activeTime": 3076,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 7,
+          "median": 68,
+          "mean": 101,
+          "range": {
+            "start": 64,
+            "end": 296
+          },
+          "variance": 7430
+        },
+        "activeTime": 370,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 4,
+          "median": 2048,
+          "mean": 2095,
+          "range": {
+            "start": 2042,
+            "end": 2244
+          },
+          "variance": 9873
+        },
+        "activeTime": 2253,
+        "loaders": [
+          "_@svgr_webpack@4.3.0@@svgr"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 21060
+  },
+  "plugins": {
+    "WebpackBarPlugin": 562,
+    "IgnorePlugin": 625,
+    "MiniCssExtractPlugin": 290,
+    "DefinePlugin": 16,
+    "HashedModuleIdsPlugin": 27,
+    "UglifyJsPlugin": 8414,
+    "ExtraWatchWebpackPlugin": 13,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 128
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 200,
+          "mean": 201,
+          "range": {
+            "start": 7,
+            "end": 1377
+          },
+          "variance": 23700
+        },
+        "activeTime": 9188,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 44,
+          "mean": 135,
+          "range": {
+            "start": 0,
+            "end": 2569
+          },
+          "variance": 38177
+        },
+        "activeTime": 11241,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 9,
+          "median": 1116,
+          "mean": 319,
+          "range": {
+            "start": 7,
+            "end": 1116
+          },
+          "variance": 231525
+        },
+        "activeTime": 1785,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 263,
+          "mean": 528,
+          "range": {
+            "start": 48,
+            "end": 2170
+          },
+          "variance": 273155
+        },
+        "activeTime": 6492,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 266,
+          "mean": 497,
+          "range": {
+            "start": 36,
+            "end": 1889
+          },
+          "variance": 221975
+        },
+        "activeTime": 6362,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 797,
+          "mean": 663,
+          "range": {
+            "start": 406,
+            "end": 807
+          },
+          "variance": 37050
+        },
+        "activeTime": 1429,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 22616
+  },
+  "plugins": {
+    "WebpackBarPlugin": 612,
+    "IgnorePlugin": 711,
+    "MiniCssExtractPlugin": 298,
+    "DefinePlugin": 2,
+    "HashedModuleIdsPlugin": 24,
+    "UglifyJsPlugin": 8956,
+    "ExtraWatchWebpackPlugin": 18,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 139
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 265,
+          "mean": 282,
+          "range": {
+            "start": 5,
+            "end": 1838
+          },
+          "variance": 93456
+        },
+        "activeTime": 11585,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 41,
+          "mean": 151,
+          "range": {
+            "start": 0,
+            "end": 3256
+          },
+          "variance": 53910
+        },
+        "activeTime": 12234,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 206,
+          "mean": 616,
+          "range": {
+            "start": 88,
+            "end": 2104
+          },
+          "variance": 400338
+        },
+        "activeTime": 7697,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2038,
+          "mean": 596,
+          "range": {
+            "start": 78,
+            "end": 2076
+          },
+          "variance": 383292
+        },
+        "activeTime": 7410,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 7,
+          "mean": 320,
+          "range": {
+            "start": 7,
+            "end": 1424
+          },
+          "variance": 257734
+        },
+        "activeTime": 2406,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 346,
+          "mean": 411,
+          "range": {
+            "start": 338,
+            "end": 643
+          },
+          "variance": 17159
+        },
+        "activeTime": 1065,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 22473
+  },
+  "plugins": {
+    "WebpackBarPlugin": 586,
+    "IgnorePlugin": 714,
+    "MiniCssExtractPlugin": 357,
+    "DefinePlugin": 4,
+    "HashedModuleIdsPlugin": 29,
+    "UglifyJsPlugin": 8566,
+    "ExtraWatchWebpackPlugin": 15,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 133
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 238,
+          "mean": 281,
+          "range": {
+            "start": 6,
+            "end": 1911
+          },
+          "variance": 94333
+        },
+        "activeTime": 10892,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 41,
+          "mean": 143,
+          "range": {
+            "start": 0,
+            "end": 4676
+          },
+          "variance": 44437
+        },
+        "activeTime": 12438,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2155,
+          "mean": 620,
+          "range": {
+            "start": 72,
+            "end": 2172
+          },
+          "variance": 460521
+        },
+        "activeTime": 7355,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2141,
+          "mean": 597,
+          "range": {
+            "start": 64,
+            "end": 2141
+          },
+          "variance": 437257
+        },
+        "activeTime": 6914,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 765,
+          "mean": 338,
+          "range": {
+            "start": 6,
+            "end": 1464
+          },
+          "variance": 288167
+        },
+        "activeTime": 2580,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 366,
+          "mean": 408,
+          "range": {
+            "start": 357,
+            "end": 573
+          },
+          "variance": 8623
+        },
+        "activeTime": 997,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 21393
+  },
+  "plugins": {
+    "WebpackBarPlugin": 519,
+    "IgnorePlugin": 672,
+    "MiniCssExtractPlugin": 298,
+    "DefinePlugin": 1,
+    "HashedModuleIdsPlugin": 22,
+    "UglifyJsPlugin": 8509,
+    "ExtraWatchWebpackPlugin": 12,
+    "FilterCSSConflictingWarning": 1,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 137
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 27,
+          "mean": 256,
+          "range": {
+            "start": 6,
+            "end": 1338
+          },
+          "variance": 82228
+        },
+        "activeTime": 10676,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 44,
+          "mean": 133,
+          "range": {
+            "start": 0,
+            "end": 4494
+          },
+          "variance": 42000
+        },
+        "activeTime": 11592,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 7,
+          "mean": 357,
+          "range": {
+            "start": 4,
+            "end": 1472
+          },
+          "variance": 312122
+        },
+        "activeTime": 2581,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2012,
+          "mean": 602,
+          "range": {
+            "start": 78,
+            "end": 2012
+          },
+          "variance": 388212
+        },
+        "activeTime": 7566,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 199,
+          "mean": 583,
+          "range": {
+            "start": 68,
+            "end": 1978
+          },
+          "variance": 373266
+        },
+        "activeTime": 7321,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 450,
+          "mean": 466,
+          "range": {
+            "start": 446,
+            "end": 531
+          },
+          "variance": 1327
+        },
+        "activeTime": 1000,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 22475
+  },
+  "plugins": {
+    "WebpackBarPlugin": 560,
+    "IgnorePlugin": 690,
+    "MiniCssExtractPlugin": 324,
+    "DefinePlugin": 5,
+    "HashedModuleIdsPlugin": 18,
+    "UglifyJsPlugin": 8344,
+    "ExtraWatchWebpackPlugin": 19,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 10,
+    "BigBrotherWebpackPlugin": 170
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 238,
+          "mean": 274,
+          "range": {
+            "start": 5,
+            "end": 1824
+          },
+          "variance": 125351
+        },
+        "activeTime": 11144,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 39,
+          "mean": 167,
+          "range": {
+            "start": 0,
+            "end": 3326
+          },
+          "variance": 80213
+        },
+        "activeTime": 12524,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2252,
+          "mean": 755,
+          "range": {
+            "start": 85,
+            "end": 2877
+          },
+          "variance": 771716
+        },
+        "activeTime": 8213,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2224,
+          "mean": 736,
+          "range": {
+            "start": 78,
+            "end": 2844
+          },
+          "variance": 750279
+        },
+        "activeTime": 7950,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 4,
+          "mean": 338,
+          "range": {
+            "start": 4,
+            "end": 1434
+          },
+          "variance": 281552
+        },
+        "activeTime": 2470,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 311,
+          "mean": 374,
+          "range": {
+            "start": 291,
+            "end": 535
+          },
+          "variance": 11176
+        },
+        "activeTime": 1012,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 22871
+  },
+  "plugins": {
+    "WebpackBarPlugin": 631,
+    "IgnorePlugin": 779,
+    "MiniCssExtractPlugin": 356,
+    "DefinePlugin": 5,
+    "HashedModuleIdsPlugin": 24,
+    "UglifyJsPlugin": 9098,
+    "ExtraWatchWebpackPlugin": 13,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 5,
+    "BigBrotherWebpackPlugin": 139
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 303,
+          "mean": 311,
+          "range": {
+            "start": 37,
+            "end": 1537
+          },
+          "variance": 60485
+        },
+        "activeTime": 10951,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 46,
+          "mean": 137,
+          "range": {
+            "start": 0,
+            "end": 4219
+          },
+          "variance": 37279
+        },
+        "activeTime": 12465,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 213,
+          "mean": 607,
+          "range": {
+            "start": 77,
+            "end": 2122
+          },
+          "variance": 431983
+        },
+        "activeTime": 7608,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2092,
+          "mean": 585,
+          "range": {
+            "start": 70,
+            "end": 2092
+          },
+          "variance": 410636
+        },
+        "activeTime": 7189,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 15,
+          "mean": 331,
+          "range": {
+            "start": 10,
+            "end": 1151
+          },
+          "variance": 231809
+        },
+        "activeTime": 2310,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 409,
+          "mean": 418,
+          "range": {
+            "start": 334,
+            "end": 600
+          },
+          "variance": 11832
+        },
+        "activeTime": 1075,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 20699
+  },
+  "plugins": {
+    "WebpackBarPlugin": 541,
+    "IgnorePlugin": 714,
+    "MiniCssExtractPlugin": 298,
+    "DefinePlugin": 2,
+    "HashedModuleIdsPlugin": 22,
+    "UglifyJsPlugin": 8582,
+    "ExtraWatchWebpackPlugin": 16,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 5,
+    "BigBrotherWebpackPlugin": 124
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 227,
+          "mean": 272,
+          "range": {
+            "start": 19,
+            "end": 1255
+          },
+          "variance": 69072
+        },
+        "activeTime": 9207,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 50,
+          "mean": 132,
+          "range": {
+            "start": 0,
+            "end": 2980
+          },
+          "variance": 40691
+        },
+        "activeTime": 11040,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 184,
+          "mean": 542,
+          "range": {
+            "start": 70,
+            "end": 1839
+          },
+          "variance": 305556
+        },
+        "activeTime": 6801,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 234,
+          "mean": 526,
+          "range": {
+            "start": 63,
+            "end": 1810
+          },
+          "variance": 295653
+        },
+        "activeTime": 6620,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 14,
+          "mean": 274,
+          "range": {
+            "start": 12,
+            "end": 1345
+          },
+          "variance": 203109
+        },
+        "activeTime": 2074,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 308,
+          "mean": 354,
+          "range": {
+            "start": 299,
+            "end": 488
+          },
+          "variance": 6369
+        },
+        "activeTime": 897,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 22186
+  },
+  "plugins": {
+    "WebpackBarPlugin": 526,
+    "IgnorePlugin": 679,
+    "MiniCssExtractPlugin": 291,
+    "DefinePlugin": 5,
+    "HashedModuleIdsPlugin": 28,
+    "UglifyJsPlugin": 9040,
+    "ExtraWatchWebpackPlugin": 10,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 144
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 253,
+          "mean": 268,
+          "range": {
+            "start": 5,
+            "end": 1859
+          },
+          "variance": 74286
+        },
+        "activeTime": 10640,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 43,
+          "mean": 131,
+          "range": {
+            "start": 0,
+            "end": 4733
+          },
+          "variance": 41688
+        },
+        "activeTime": 11622,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 7,
+          "mean": 342,
+          "range": {
+            "start": 6,
+            "end": 1317
+          },
+          "variance": 280475
+        },
+        "activeTime": 2411,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2040,
+          "mean": 593,
+          "range": {
+            "start": 67,
+            "end": 2051
+          },
+          "variance": 410787
+        },
+        "activeTime": 7542,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2019,
+          "mean": 575,
+          "range": {
+            "start": 58,
+            "end": 2019
+          },
+          "variance": 396040
+        },
+        "activeTime": 7290,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 381,
+          "mean": 412,
+          "range": {
+            "start": 339,
+            "end": 569
+          },
+          "variance": 8131
+        },
+        "activeTime": 993,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 12436
+  },
+  "plugins": {
+    "WebpackBarPlugin": 540,
+    "IgnorePlugin": 633,
+    "MiniCssExtractPlugin": 304,
+    "DefinePlugin": 3,
+    "HashedModuleIdsPlugin": 25,
+    "UglifyJsPlugin": 159,
+    "ExtraWatchWebpackPlugin": 14,
+    "FilterCSSConflictingWarning": 1,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 117
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 223,
+          "mean": 256,
+          "range": {
+            "start": 29,
+            "end": 1616
+          },
+          "variance": 65560
+        },
+        "activeTime": 9660,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 46,
+          "mean": 125,
+          "range": {
+            "start": 0,
+            "end": 3956
+          },
+          "variance": 35902
+        },
+        "activeTime": 11197,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 178,
+          "mean": 592,
+          "range": {
+            "start": 60,
+            "end": 2180
+          },
+          "variance": 469241
+        },
+        "activeTime": 7098,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2144,
+          "mean": 574,
+          "range": {
+            "start": 53,
+            "end": 2149
+          },
+          "variance": 451814
+        },
+        "activeTime": 6834,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 26,
+          "mean": 264,
+          "range": {
+            "start": 22,
+            "end": 886
+          },
+          "variance": 140540
+        },
+        "activeTime": 1769,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 351,
+          "mean": 377,
+          "range": {
+            "start": 311,
+            "end": 561
+          },
+          "variance": 10980
+        },
+        "activeTime": 949,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 25695
+  },
+  "plugins": {
+    "WebpackBarPlugin": 808,
+    "IgnorePlugin": 1021,
+    "MiniCssExtractPlugin": 445,
+    "DefinePlugin": 4,
+    "HashedModuleIdsPlugin": 34,
+    "UglifyJsPlugin": 10888,
+    "ExtraWatchWebpackPlugin": 12,
+    "FilterCSSConflictingWarning": 1,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 131
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 294,
+          "mean": 308,
+          "range": {
+            "start": 32,
+            "end": 1434
+          },
+          "variance": 83437
+        },
+        "activeTime": 10862,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 36,
+          "mean": 158,
+          "range": {
+            "start": 0,
+            "end": 4826
+          },
+          "variance": 54885
+        },
+        "activeTime": 13458,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 206,
+          "mean": 658,
+          "range": {
+            "start": 87,
+            "end": 2309
+          },
+          "variance": 496602
+        },
+        "activeTime": 8049,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 197,
+          "mean": 638,
+          "range": {
+            "start": 76,
+            "end": 2272
+          },
+          "variance": 477374
+        },
+        "activeTime": 7791,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 22,
+          "mean": 336,
+          "range": {
+            "start": 17,
+            "end": 1545
+          },
+          "variance": 275921
+        },
+        "activeTime": 2508,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 410,
+          "mean": 432,
+          "range": {
+            "start": 401,
+            "end": 534
+          },
+          "variance": 3240
+        },
+        "activeTime": 963,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 21887
+  },
+  "plugins": {
+    "WebpackBarPlugin": 503,
+    "IgnorePlugin": 744,
+    "MiniCssExtractPlugin": 304,
+    "DefinePlugin": 3,
+    "HashedModuleIdsPlugin": 24,
+    "UglifyJsPlugin": 8770,
+    "ExtraWatchWebpackPlugin": 19,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 128
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 270,
+          "mean": 266,
+          "range": {
+            "start": 12,
+            "end": 1564
+          },
+          "variance": 68323
+        },
+        "activeTime": 10334,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 46,
+          "mean": 142,
+          "range": {
+            "start": 0,
+            "end": 4260
+          },
+          "variance": 46405
+        },
+        "activeTime": 12003,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 219,
+          "mean": 633,
+          "range": {
+            "start": 76,
+            "end": 2360
+          },
+          "variance": 497034
+        },
+        "activeTime": 7690,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2306,
+          "mean": 614,
+          "range": {
+            "start": 69,
+            "end": 2328
+          },
+          "variance": 479911
+        },
+        "activeTime": 7447,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 14,
+          "mean": 274,
+          "range": {
+            "start": 11,
+            "end": 1009
+          },
+          "variance": 164505
+        },
+        "activeTime": 1920,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 368,
+          "mean": 399,
+          "range": {
+            "start": 332,
+            "end": 558
+          },
+          "variance": 8173
+        },
+        "activeTime": 962,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 21133
+  },
+  "plugins": {
+    "WebpackBarPlugin": 513,
+    "IgnorePlugin": 722,
+    "MiniCssExtractPlugin": 307,
+    "DefinePlugin": 5,
+    "HashedModuleIdsPlugin": 19,
+    "UglifyJsPlugin": 8670,
+    "ExtraWatchWebpackPlugin": 20,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 6,
+    "BigBrotherWebpackPlugin": 158
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 240,
+          "mean": 200,
+          "range": {
+            "start": 6,
+            "end": 1378
+          },
+          "variance": 37106
+        },
+        "activeTime": 10156,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 42,
+          "mean": 140,
+          "range": {
+            "start": 0,
+            "end": 2713
+          },
+          "variance": 49753
+        },
+        "activeTime": 11074,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2146,
+          "mean": 605,
+          "range": {
+            "start": 55,
+            "end": 2172
+          },
+          "variance": 428786
+        },
+        "activeTime": 7386,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2137,
+          "mean": 587,
+          "range": {
+            "start": 49,
+            "end": 2137
+          },
+          "variance": 412787
+        },
+        "activeTime": 7092,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 11,
+          "mean": 234,
+          "range": {
+            "start": 10,
+            "end": 854
+          },
+          "variance": 118292
+        },
+        "activeTime": 1663,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 324,
+          "mean": 371,
+          "range": {
+            "start": 312,
+            "end": 558
+          },
+          "variance": 11023
+        },
+        "activeTime": 938,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 20532
+  },
+  "plugins": {
+    "WebpackBarPlugin": 514,
+    "IgnorePlugin": 639,
+    "MiniCssExtractPlugin": 300,
+    "DefinePlugin": 4,
+    "HashedModuleIdsPlugin": 33,
+    "UglifyJsPlugin": 8676,
+    "ExtraWatchWebpackPlugin": 15,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 163
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 28,
+          "mean": 222,
+          "range": {
+            "start": 5,
+            "end": 1462
+          },
+          "variance": 59870
+        },
+        "activeTime": 9707,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 50,
+          "mean": 138,
+          "range": {
+            "start": 0,
+            "end": 2556
+          },
+          "variance": 36561
+        },
+        "activeTime": 10564,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 8,
+          "mean": 283,
+          "range": {
+            "start": 5,
+            "end": 895
+          },
+          "variance": 169211
+        },
+        "activeTime": 1920,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 206,
+          "mean": 525,
+          "range": {
+            "start": 71,
+            "end": 1809
+          },
+          "variance": 283661
+        },
+        "activeTime": 6571,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 198,
+          "mean": 508,
+          "range": {
+            "start": 64,
+            "end": 1777
+          },
+          "variance": 272469
+        },
+        "activeTime": 6404,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 298,
+          "mean": 349,
+          "range": {
+            "start": 295,
+            "end": 512
+          },
+          "variance": 8726
+        },
+        "activeTime": 889,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 21467
+  },
+  "plugins": {
+    "WebpackBarPlugin": 538,
+    "IgnorePlugin": 698,
+    "MiniCssExtractPlugin": 320,
+    "DefinePlugin": 3,
+    "HashedModuleIdsPlugin": 28,
+    "UglifyJsPlugin": 8651,
+    "ExtraWatchWebpackPlugin": 13,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 5,
+    "BigBrotherWebpackPlugin": 139
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 207,
+          "mean": 236,
+          "range": {
+            "start": 29,
+            "end": 1263
+          },
+          "variance": 45011
+        },
+        "activeTime": 10536,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 511,
+          "mean": 126,
+          "range": {
+            "start": 0,
+            "end": 3248
+          },
+          "variance": 32540
+        },
+        "activeTime": 11177,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 87,
+          "mean": 372,
+          "range": {
+            "start": 8,
+            "end": 1444
+          },
+          "variance": 332464
+        },
+        "activeTime": 2634,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 265,
+          "mean": 608,
+          "range": {
+            "start": 72,
+            "end": 2935
+          },
+          "variance": 494767
+        },
+        "activeTime": 6821,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2597,
+          "mean": 574,
+          "range": {
+            "start": 65,
+            "end": 2597
+          },
+          "variance": 408239
+        },
+        "activeTime": 6651,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 299,
+          "mean": 336,
+          "range": {
+            "start": 223,
+            "end": 564
+          },
+          "variance": 17255
+        },
+        "activeTime": 969,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 20799
+  },
+  "plugins": {
+    "WebpackBarPlugin": 550,
+    "IgnorePlugin": 717,
+    "MiniCssExtractPlugin": 299,
+    "DefinePlugin": 8,
+    "HashedModuleIdsPlugin": 28,
+    "UglifyJsPlugin": 8373,
+    "ExtraWatchWebpackPlugin": 18,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 5,
+    "BigBrotherWebpackPlugin": 128
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 225,
+          "mean": 242,
+          "range": {
+            "start": 22,
+            "end": 1331
+          },
+          "variance": 42825
+        },
+        "activeTime": 10359,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 44,
+          "mean": 125,
+          "range": {
+            "start": 0,
+            "end": 2587
+          },
+          "variance": 30542
+        },
+        "activeTime": 10912,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 246,
+          "mean": 618,
+          "range": {
+            "start": 80,
+            "end": 3062
+          },
+          "variance": 541313
+        },
+        "activeTime": 7211,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 2711,
+          "mean": 582,
+          "range": {
+            "start": 71,
+            "end": 2712
+          },
+          "variance": 448576
+        },
+        "activeTime": 7014,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 22,
+          "mean": 263,
+          "range": {
+            "start": 17,
+            "end": 930
+          },
+          "variance": 141521
+        },
+        "activeTime": 1821,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 301,
+          "mean": 359,
+          "range": {
+            "start": 297,
+            "end": 557
+          },
+          "variance": 12590
+        },
+        "activeTime": 952,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 19793
+  },
+  "plugins": {
+    "WebpackBarPlugin": 524,
+    "IgnorePlugin": 667,
+    "MiniCssExtractPlugin": 335,
+    "DefinePlugin": 4,
+    "HashedModuleIdsPlugin": 30,
+    "UglifyJsPlugin": 8073,
+    "ExtraWatchWebpackPlugin": 14,
+    "FilterCSSConflictingWarning": 1,
+    "FriendlyErrorsWebpackPlugin": 4,
+    "BigBrotherWebpackPlugin": 124
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 278,
+          "median": 241,
+          "mean": 213,
+          "range": {
+            "start": 5,
+            "end": 1589
+          },
+          "variance": 58766
+        },
+        "activeTime": 8917,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 431,
+          "mean": 132,
+          "range": {
+            "start": 0,
+            "end": 2404
+          },
+          "variance": 36126
+        },
+        "activeTime": 10518,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 230,
+          "mean": 533,
+          "range": {
+            "start": 82,
+            "end": 1794
+          },
+          "variance": 280452
+        },
+        "activeTime": 6280,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 234,
+          "mean": 517,
+          "range": {
+            "start": 72,
+            "end": 1768
+          },
+          "variance": 271071
+        },
+        "activeTime": 6103,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 7,
+          "mean": 227,
+          "range": {
+            "start": 6,
+            "end": 815
+          },
+          "variance": 113758
+        },
+        "activeTime": 1590,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 308,
+          "mean": 330,
+          "range": {
+            "start": 199,
+            "end": 522
+          },
+          "variance": 13824
+        },
+        "activeTime": 911,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}
+{
+  "misc": {
+    "compileTime": 20886
+  },
+  "plugins": {
+    "WebpackBarPlugin": 503,
+    "IgnorePlugin": 676,
+    "MiniCssExtractPlugin": 299,
+    "DefinePlugin": 4,
+    "HashedModuleIdsPlugin": 23,
+    "UglifyJsPlugin": 8314,
+    "ExtraWatchWebpackPlugin": 14,
+    "FilterCSSConflictingWarning": 0,
+    "FriendlyErrorsWebpackPlugin": 5,
+    "BigBrotherWebpackPlugin": 125
+  },
+  "loaders": {
+    "build": [
+      {
+        "averages": {
+          "dataPoints": 277,
+          "median": 224,
+          "mean": 237,
+          "range": {
+            "start": 5,
+            "end": 1292
+          },
+          "variance": 54548
+        },
+        "activeTime": 10530,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 1165,
+          "median": 46,
+          "mean": 127,
+          "range": {
+            "start": 0,
+            "end": 3208
+          },
+          "variance": 26527
+        },
+        "activeTime": 11281,
+        "loaders": [
+          "modules with no loaders"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 273,
+          "mean": 569,
+          "range": {
+            "start": 69,
+            "end": 1956
+          },
+          "variance": 344941
+        },
+        "activeTime": 6558,
+        "loaders": [
+          "_mini-css-extract-plugin@0.6.0@mini-css-extract-plugin",
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 39,
+          "median": 295,
+          "mean": 549,
+          "range": {
+            "start": 59,
+            "end": 1927
+          },
+          "variance": 329000
+        },
+        "activeTime": 6220,
+        "loaders": [
+          "_css-loader@1.0.1@css-loader",
+          "_postcss-loader@3.0.0@postcss-loader",
+          "_less-loader@4.1.0@less-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 10,
+          "median": 676,
+          "mean": 255,
+          "range": {
+            "start": 5,
+            "end": 904
+          },
+          "variance": 135379
+        },
+        "activeTime": 1842,
+        "loaders": [
+          "_umi-url-pnp-loader@1.1.2@umi-url-pnp-loader"
+        ],
+        "subLoadersTime": {}
+      },
+      {
+        "averages": {
+          "dataPoints": 5,
+          "median": 310,
+          "mean": 351,
+          "range": {
+            "start": 301,
+            "end": 472
+          },
+          "variance": 5291
+        },
+        "activeTime": 879,
+        "loaders": [
+          "_babel-loader@8.0.5@babel-loader",
+          "_ts-loader@5.3.3@ts-loader"
+        ],
+        "subLoadersTime": {}
+      }
+    ]
+  }
+}

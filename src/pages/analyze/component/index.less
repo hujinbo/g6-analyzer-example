@@ -1,0 +1,66 @@
+.topBar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 40px;
+  line-height: 40px;
+  color: #fff;
+  background: #00a0e9;
+  .topTitle {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .dbName {
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 10px;
+  }
+  .pvCount {
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+
+  }
+}
+
+.search {
+  right: 0;
+  left: 0;
+  height: 40px;
+  line-height: 40px;
+  margin-bottom: 25px;
+  padding: 10px 20px 5px 20px;
+  :global {
+    .ant-input {
+      height: 32px !important;
+      min-height: 32px !important;
+    }
+  }
+  .loading {
+    text-align: center;
+    z-index: 3;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    :global {
+      .ant-spin-spinning {
+        margin-top: 200px;
+      }
+    }
+  }
+}
+
+.operateAddBtn {
+  font-size: 18px;
+  border: 1px dashed #ccc;
+  margin-top: 25px;
+  text-align: center;
+  cursor: pointer;
+}

@@ -1,0 +1,73 @@
+:global {
+  .g6-editor-contextmenu {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+
+    &:focus {
+      outline: 0px;
+    }
+  }
+
+  .g6-editor-contextmenu .ant-menu {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    border: 1px #d9d9d9 solid;
+    border-radius: 2px;
+  }
+
+  .g6-editor-contextmenu ul.ant-menu {
+    padding: 4px 0;
+  }
+
+  .g6-editor-contextmenu .ant-menu-vertical>.ant-menu-submenu>.ant-menu-submenu-title {
+    line-height: 24px;
+    height: 24px;
+    font-size: 12px;
+    padding: 0px 8px;
+    margin: 0;
+  }
+
+  .g6-editor-contextmenu .ant-menu-submenu-arrow {
+    right: 8px;
+  }
+
+  .g6-editor-contextmenu .ant-menu-item {
+    line-height: 24px;
+    height: 24px;
+    font-size: 12px;
+    padding: 2px 8px;
+    margin: 0px !important;
+  }
+
+  .g6-editor-contextmenu .ant-menu-submenu>.ant-menu {
+    border-radius: 2px;
+  }
+
+  .g6-editor-contextmenu .ant-menu-item-group-title {
+    padding: 0px 8px;
+  }
+
+  .g6-editor-contextmenu .ant-menu-item-group-list {
+    padding: 0px 16px;
+  }
+
+  .g6-editor-contextmenu .ant-menu-item .anticon {
+    margin-right: 8px;
+    line-height: 24px;
+  }
+}
+
+.hook {
+  position: absolute;
+  z-index: 5;
+}
+
+.mask {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+}

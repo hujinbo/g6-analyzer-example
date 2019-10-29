@@ -1,0 +1,58 @@
+.header {
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.labelList {
+  background: #fff;
+  padding: 10px 25px;
+}
+
+:global {
+  .ant-drawer-body {
+    padding: 0;
+    .ant-collapse {
+      border: none;
+    }
+    .ant-collapse-content {
+      padding: 5px;
+    }
+  }
+}
+
+.nodeColor {
+  display: inline-block;
+  margin-left: 10px;
+  width: 35px;
+  height: 35px;
+  border-radius: 100%; 
+  cursor: pointer;
+}
+
+.nodeSize {
+  display: inline-block;
+  margin-left: 10px;
+  border-radius: 100%;
+  background: #e8e8e8;
+  cursor: pointer;
+}
+
+.edgeWidth {
+  display: inline-block;
+  margin-left: 10px;
+  border-radius: '10px';
+  background: #e8e8e8;
+  width: 50px;
+  cursor: pointer;
+}
+
+.detailContainer {
+  margin-top: 145px;
+  :global {
+    .ant-drawer-content-wrapper {
+      height: calc(100% - 145px);
+    }
+  }
+}

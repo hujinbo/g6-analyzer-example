@@ -1,0 +1,95 @@
+.node {
+  display: flex;
+  position: relative;
+
+  &.drag {
+    position: absolute;
+    left: 16px;
+    width: 184px;
+    height: 37px;
+    cursor: move;
+    margin: -1px;
+    line-height: 36px;
+    background: #fff;
+    border-radius: 4px;
+    padding: 0px 16px 0 12px;
+    border: 1px solid @border-color;
+
+    .label {
+      width: 120px;
+    }
+
+    .icon {
+      display: block;
+      padding-right: 8px;
+      line-height: 37px;
+    }
+
+  }
+
+  .label {
+    text-overflow: ellipsis;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 120px;
+  }
+
+  .icon {
+    display: none;
+    padding-right: 8px;
+  }
+
+  &:hover {
+
+    position: absolute;
+    left: 16px;
+    width: 184px;
+    height: 37px;
+    margin: -1px;
+    cursor: move;
+    line-height: 36px;
+    border-radius: 4px;
+    background: #fff;
+    padding: 0px 16px 0 12px;
+    border: 1px solid @border-color;
+
+
+    .label {
+      width: 120px;
+    }
+
+    .icon {
+      display: block;
+      padding-right: 8px;
+      line-height: 37px;
+    }
+
+  }
+}
+
+
+
+
+
+
+.keyword {
+  color: #f50;
+}
+
+.category {
+  display: flex;
+
+  .icon {
+    padding-right: 8px;
+    line-height: 40px;
+  }
+
+  .label {
+    text-overflow: ellipsis;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 120px;
+  }
+}

@@ -1,0 +1,45 @@
+.toolbar {
+  width: 100%;
+  height: 40px;
+  padding: 8px;
+  background: #fff;
+  border-bottom: 1px solid @border-color;
+
+  &:focus {
+    outline: 0px !important;
+    outline-width: 0px !important;
+  }
+
+  .command {
+    text-align: center;
+
+    &:hover {
+      color: #1f96ff;
+      cursor: pointer;
+    }
+
+    &.disable {
+      cursor: not-allowed;
+
+      :global {
+        .anticon>svg {
+          fill: rgba(0, 0, 0, 0.25) !important;
+        }
+      }
+    }
+  }
+
+  .icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+  }
+
+  :global {
+    .anticon>svg {
+      width: 13px;
+      height: 13px;
+      fill: rgba(0, 0, 0, 0.65);
+    }
+  }
+}

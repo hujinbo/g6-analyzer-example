@@ -1,0 +1,139 @@
+.list {
+  background: #fff; // height: calc(~'100vh - 88px');
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.keyword {
+  color: #f50;
+}
+
+.algoTree {
+  padding: 8px 16px;
+
+
+  :global {
+    .ant-tree {
+      min-width: 100%;
+
+      .ant-tree-node-selected {
+        color: rgba(0, 0, 0, .65) !important;
+
+        &:hover {
+          .ant-tree-node-content-wrapper:before {
+            background: #fbfbfb !important;
+          }
+        }
+      }
+
+
+      .ant-tree-treenode-selected>span.ant-tree-switcher {
+        color: rgba(0, 0, 0, .65) !important;
+
+      }
+
+      .ant-tree-treenode-selected>span.ant-tree-node-content-wrapper:before {
+        background: transparent !important;
+
+      }
+
+
+      .ant-tree-child-tree.ant-tree-child-tree-open>li {
+        padding: 0;
+        height: 36px;
+        display: flex;
+        line-height: 36px;
+        transition: all .2 ease-in-out;
+
+        &:hover {
+          .ant-tree-title {
+            position: static;
+          }
+        }
+
+        .ant-tree-title {
+          padding-left: 8px;
+          display: flex;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          line-height: 36px;
+        }
+      }
+
+      li {
+        line-height: 36px;
+        border-bottom: 1px solid @border-color;
+        padding: 0;
+
+        ul {
+          margin: 0;
+          padding: 0 0 0 0px;
+          border-top: 1px solid #d9d9d9;
+        }
+
+        .ant-tree-switcher {
+          line-height: 36px;
+        }
+
+        &.ant-tree-treenode-switcher-open {
+          border-bottom: 0px;
+        }
+
+
+        :local {
+          .treeNode {
+            height: 36px !important;
+
+
+            :global {
+
+              .ant-tree-node-content-wrapper {
+
+                &::before {
+                  line-height: 36px !important;
+                  height: 34px !important;
+                }
+
+              }
+            }
+          }
+        }
+
+        .ant-tree-node-content-wrapper {
+          overflow: hidden;
+          width: 100%;
+          padding: 0 56px 0 0;
+          // padding-right: 56px;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          line-height: 36px;
+
+          &:hover {
+            &::before {
+              background: #fbfbfb !important;
+            }
+          }
+        }
+      }
+
+    }
+  }
+
+}
+
+
+.treeFolder {
+
+  :global {
+
+    .ant-tree-node-content-wrapper {
+
+      &::before {
+        line-height: 36px !important;
+        height: 36px !important;
+      }
+
+    }
+  }
+}
